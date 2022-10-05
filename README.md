@@ -1,2 +1,2 @@
 # DiscordBotsSharp
-library to buil bots for dicord
+library to build bots for dicord
